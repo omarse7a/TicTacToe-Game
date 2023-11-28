@@ -1,1 +1,2 @@
 D:\CPP\TicTacToe\x64\Debug\TicTacToe.exe
+D:\CPP\myProjects\TicTacToe\x64\Debug\TicTacToe.exe
